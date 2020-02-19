@@ -58,10 +58,10 @@ header button {
     border-radius: 4px;
     border: none;
     background-color: #ff4f4f;
-    color: white;
+    color: #f9f9f9;
     font-weight: bold;
-
-}
+  }
+  
 .logo {
     width: 120px;
     margin: 70px 0;
